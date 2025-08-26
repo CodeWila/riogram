@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rioGram/static/css/main.4f9a5d09.css",
+    "main.js": "/rioGram/static/js/main.dff0c2d0.js",
+    "static/js/453.39f1d10c.chunk.js": "/rioGram/static/js/453.39f1d10c.chunk.js",
+    "static/media/dummy-person.png": "/rioGram/static/media/dummy-person.f2865bfae176f30ab718.png",
+    "index.html": "/rioGram/index.html",
+    "main.4f9a5d09.css.map": "/rioGram/static/css/main.4f9a5d09.css.map",
+    "main.dff0c2d0.js.map": "/rioGram/static/js/main.dff0c2d0.js.map",
+    "453.39f1d10c.chunk.js.map": "/rioGram/static/js/453.39f1d10c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f9a5d09.css",
+    "static/js/main.dff0c2d0.js"
+  ]
+}
