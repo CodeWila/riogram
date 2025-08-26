@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/riogram/static/css/main.4f9a5d09.css",
-    "main.js": "/riogram/static/js/main.2057e6d6.js",
+    "main.js": "/riogram/static/js/main.f3d87efb.js",
     "static/js/453.39f1d10c.chunk.js": "/riogram/static/js/453.39f1d10c.chunk.js",
     "static/media/dummy-person.png": "/riogram/static/media/dummy-person.f2865bfae176f30ab718.png",
     "index.html": "/riogram/index.html",
     "main.4f9a5d09.css.map": "/riogram/static/css/main.4f9a5d09.css.map",
-    "main.2057e6d6.js.map": "/riogram/static/js/main.2057e6d6.js.map",
+    "main.f3d87efb.js.map": "/riogram/static/js/main.f3d87efb.js.map",
     "453.39f1d10c.chunk.js.map": "/riogram/static/js/453.39f1d10c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f9a5d09.css",
-    "static/js/main.2057e6d6.js"
+    "static/js/main.f3d87efb.js"
   ]
 }
