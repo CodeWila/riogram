@@ -36,7 +36,7 @@ import PrivacyPolicy from './pages/Privacy/privacy';
 
 function App() {
   return (
-    <Router basename="/RioGram">   {/* 👈 important for GitHub Pages */}
+    <Router basename="/riogram">   {/* 👈 important for GitHub Pages */}
       <Header />
       <Routes>
         <Route path="/" element={<MainContent />} /> 
